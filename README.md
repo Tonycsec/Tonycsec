@@ -32,21 +32,37 @@ While this role provided a solid foundation in enterprise IT operations, it also
 - TCP/IP
 - DNS
 - DHCP
-- Routing fundamentals
+- Routing Fundamentals
 
-### Security
+### Enterprise IT
+- Active Directory
+- User and Group Administration
+- Permissions Management
+- Windows Administration
+- Linux Administration
+
+### Monitoring & IT Operations
+- LogicMonitor
+- Incident Management
+- Alert Triage
+- Monitoring and Alert Handling
+
+### Cybersecurity
 - Nmap
 - Wireshark
 - Metasploit Framework
 - Vulnerability Assessment
 - Basic Penetration Testing
 
-### System Administration
-- Active Directory
-- User and Group Management
-- Permissions
-- Windows Administration
-- Linux Administration
+### Virtualization & Labs
+- Oracle Virtual Box
+- Kali Linux
+- Metasploitable
+
+### Collaboration & Documentation
+- Service Now
+- Confluence
+- Microsoft Teams
 
 ### Version Control
 - Git
