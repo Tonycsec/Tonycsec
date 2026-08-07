@@ -24,51 +24,53 @@ While this role provided a solid foundation in enterprise IT operations, it also
 
 ## Technical Skills
 
-### Operating Systems
+### 💻 Operating Systems
 - Windows 10/11
 - Linux (Kali Linux, Ubuntu)
 
-### Networking
+### 🌐 Networking
 - TCP/IP
 - DNS
 - DHCP
 - Routing Fundamentals
 
-### Enterprise IT
+### 🏢 Systems Administration
 - Active Directory
 - User and Group Administration
 - Permissions Management
 - Windows Administration
 - Linux Administration
 
-### Monitoring & IT Operations
+### 📊 Monitoring & IT Operations
 - LogicMonitor
 - Incident Management
 - Alert Triage
 - Monitoring and Alert Handling
+- Event Investigation
 
-### Cybersecurity
+### 🔐 Cybersecurity
 - Nmap
 - Wireshark
 - Metasploit Framework
 - Vulnerability Assessment
 - Basic Penetration Testing
 
-### Virtualization & Labs
+### 🧪 Virtualization & Labs
 - Oracle Virtual Box
 - Kali Linux
 - Metasploitable
 
-### Collaboration & Documentation
+### 🤝 Collaboration & Documentation
 - Service Now
+- Jira
 - Confluence
 - Microsoft Teams
 
-### Version Control
+### 🔀 Version Control
 - Git
 - GitHub
 
-### Scripting
+### ⚡ Scripting
 - Bash
 - Basic PowerShell
 
