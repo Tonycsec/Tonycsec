@@ -13,3 +13,11 @@ I am an IT professional with more than three years of experience in enterprise t
 I am currently specializing in cybersecurity through hands-on laboratory work, technical projects, and continuous professional development, with a particular interest in Blue Team operations, system security, network security, vulnerability assessment, and defensive security practices.
 
 This GitHub portfolio documents my technical growth and showcases practical projects designed to strengthen both my knowledge and my ability to contribute effectively in professional cybersecurity environments.
+
+## Professional Background
+
+I have over three years of professional experience at **NTT Managed Services EMEA**, where I worked in an Incident Response and IT Support environment supporting enterprise infrastructures and business-critical services.
+
+My responsibilities included user account and access management, systems administration, incident investigation and resolution, and supporting the handling of operational events, including security-related incidents. Working in a large international managed services environment strengthened my analytical thinking, troubleshooting methodology, and ability to perform effectively under pressure.
+
+While this role provided a solid foundation in enterprise IT operations, it also reinforced my interest in cybersecurity. I am currently expanding my expertise through structured training, hands-on laboratory environments, security research, and practical projects focused on defensive security, system hardening, vulnerability assessment, and penetration testing.
