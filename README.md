@@ -21,3 +21,37 @@ I have over three years of professional experience at **NTT Managed Services EME
 My responsibilities included user account and access management, systems administration, incident investigation and resolution, and supporting the handling of operational events, including security-related incidents. Working in a large international managed services environment strengthened my analytical thinking, troubleshooting methodology, and ability to perform effectively under pressure.
 
 While this role provided a solid foundation in enterprise IT operations, it also reinforced my interest in cybersecurity. I am currently expanding my expertise through structured training, hands-on laboratory environments, security research, and practical projects focused on defensive security, system hardening, vulnerability assessment, and penetration testing.
+
+## Technical Skills
+
+### Operating Systems
+- Windows 10/11
+- Linux (Kali Linux, Ubuntu)
+
+### Networking
+- TCP/IP
+- DNS
+- DHCP
+- Routing fundamentals
+
+### Security
+- Nmap
+- Wireshark
+- Metasploit Framework
+- Vulnerability Assessment
+- Basic Penetration Testing
+
+### System Administration
+- Active Directory
+- User and Group Management
+- Permissions
+- Windows Administration
+- Linux Administration
+
+### Version Control
+- Git
+- GitHub
+
+### Scripting
+- Bash
+- Basic PowerShell
