@@ -1,70 +1,69 @@
-# Antonio Rodríguez Peris
+<h1 align="center">Antonio Rodríguez Peris</h1>
 
-**Cybersecurity Professional in transition | Enterprise IT Operations | Practical Security Projects**
+<p align="center">
+Enterprise IT Professional Transitioning into Cybersecurity
+</p>
 
-Welcome to my GitHub portfolio.
+## About Me
 
-This repository serves as the central hub for my cybersecurity journey, documenting my transition from enterprise IT operations to a career focused on cybersecurity. Here you will find hands-on projects, laboratory environments, technical documentation, security assessments, and practical tools developed as part of my continuous learning and professional growth.
+IT professional with more than three years of experience supporting enterprise environments in Incident Response and IT Operations.
 
-## Professional Summary
+Currently transitioning into Cybersecurity through structured training, hands-on laboratory environments, and practical security projects.
 
-I am an IT professional with more than three years of experience in enterprise technical support and incident response within an international managed services environment.
-
-I am currently specializing in cybersecurity through hands-on laboratory work, technical projects, and continuous professional development, with a particular interest in Blue Team operations, system security, network security, vulnerability assessment, and defensive security practices.
-
-This GitHub portfolio documents my technical growth and showcases practical projects designed to strengthen both my knowledge and my ability to contribute effectively in professional cybersecurity environments.
+This GitHub portfolio documents my technical development, security assessments, laboratory work, and cybersecurity projects.
 
 ## Professional Background
 
-I have over three years of professional experience at **NTT Managed Services EMEA**, where I worked in an Incident Response and IT Support environment supporting enterprise infrastructures and business-critical services.
+I have over three years of professional experience at NTT Managed Services EMEA, working within an enterprise IT environment supporting business-critical infrastructure and services.
 
-My responsibilities included user account and access management, systems administration, incident investigation and resolution, and supporting the handling of operational events, including security-related incidents. Working in a large international managed services environment strengthened my analytical thinking, troubleshooting methodology, and ability to perform effectively under pressure.
+My responsibilities included Incident Response and IT Support, user account and access management, systems administration, incident investigation and resolution, monitoring, and the handling of security-related operational events.
 
-While this role provided a solid foundation in enterprise IT operations, it also reinforced my interest in cybersecurity. I am currently expanding my expertise through structured training, hands-on laboratory environments, security research, and practical projects focused on defensive security, system hardening, vulnerability assessment, and penetration testing.
+Working within a large international managed services environment strengthened my analytical and troubleshooting skills, operational discipline, and ability to work effectively under pressure while handling business-critical incidents.
+
+This experience provided me with a strong foundation in enterprise IT operations and has directly supported my transition towards a career in cybersecurity.
 
 ## Technical Skills
 
 ### 💻 Operating Systems
 - Windows 10/11
-- Linux (Kali Linux, Ubuntu)
+- Linux
+- Kali Linux
+- Ubuntu
 
 ### 🌐 Networking
 - TCP/IP
 - DNS
 - DHCP
-- Routing Fundamentals
+- Basic Routing & Network Troubleshooting
 
 ### 🏢 Systems Administration
 - Active Directory
-- User and Group Administration
-- Permissions Management
+- User & Group Management
+- Access & Permissions Management
 - Windows Administration
 - Linux Administration
 
 ### 📊 Monitoring & IT Operations
 - LogicMonitor
-- Incident Management
+- Incident Monitoring
 - Alert Triage
-- Monitoring and Alert Handling
+- Incident Response
 - Event Investigation
 
-### 🔐 Cybersecurity
+### 🔐 Security Tools
 - Nmap
 - Wireshark
 - Metasploit Framework
-- Vulnerability Assessment
-- Basic Penetration Testing
 
 ### 🧪 Virtualization & Labs
 - Oracle Virtual Box
-- Kali Linux
-- Metasploitable
+- Isolated Cybersecurity Laboratory Enviroments
+- Metasploitable 2
 
 ### 🤝 Collaboration & Documentation
-- Service Now
+- ServiceNow
 - Jira
 - Confluence
-- Microsoft Teams
 
 ### 🔀 Version Control
 - Git
@@ -84,35 +83,26 @@ My current areas of focus include:
 - Network Security
 - Vulnerability Assessment
 - Penetration Testing
-- Linux Administration
+- Linux Security & Administration
 - Windows Security
-- Security Documentation
+- Security Auditing
+- Incident Response
 - Git & GitHub for Technical Documentation
 
 ## Featured Projects
 
-### Cybersecurity Projects
+### 🔐 Metasploitable 2 Security Assessment
 
-> 🚧 Projects are currently under active development.
+A hands-on security assessment of a deliberately vulnerable Linux environment, covering network reconnaissance, service enumeration, vulnerability identification, and security analysis.
 
-- Metasploitable 2 Security Assessment
+**Status:** 🚧 In Progress
 
-Upcoming repositories will include:
+## Certifications & Training
 
-- Internal Network Reconnaissance Lab
-- Nmap Enumeration Guide
-- Linux Hardening Exercises
-- Bash Automation Scripts
-- Windows Security Labs
-
-## IT Certifications & Training
-
-- Professional Certificate Module: Security on Computer Systems (MF0486_3)
-- Ongoing preparation for: 
-* Information Security Auditing (MF0487_3)
-* CompTIA Security+
+- Professional Certificate Module: Security on Computer Systems (MF0486_3) - Completed
+- Professional Certificate Module: Information Security Auditing (MF0487_3) - Upcoming
+- CompTIA Security+ - Planned
 
 ## Contact
 
-- LinkedIn: *(cuando lo optimicemos)*
-- GitHub: https://github.com/Tonycsec
+- GitHub: [Tonycsec](https://github.com/Tonycsec)
