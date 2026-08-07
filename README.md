@@ -71,3 +71,46 @@ While this role provided a solid foundation in enterprise IT operations, it also
 ### Scripting
 - Bash
 - Basic PowerShell
+
+## Current Focus
+
+I am currently expanding my cybersecurity skills through structured training, hands-on laboratory environments, and practical security projects.
+
+My current areas of focus include:
+
+- Defensive Security (Blue Team)
+- Network Security
+- Vulnerability Assessment
+- Penetration Testing
+- Linux Administration
+- Windows Security
+- Security Documentation
+- Git & GitHub for Technical Documentation
+
+## Featured Projects
+
+### Cybersecurity Projects
+
+> 🚧 Projects are currently under active development.
+
+- Metasploitable 2 Security Assessment
+
+Upcoming repositories will include:
+
+- Internal Network Reconnaissance Lab
+- Nmap Enumeration Guide
+- Linux Hardening Exercises
+- Bash Automation Scripts
+- Windows Security Labs
+
+## IT Certifications & Training
+
+- Professional Certificate Module: Security on Computer Systems (MF0486_3)
+- Ongoing preparation for: 
+* Information Security Auditing (MF0487_3)
+* CompTIA Security+
+
+## Contact
+
+- LinkedIn: *(cuando lo optimicemos)*
+- GitHub: https://github.com/Tonycsec
