@@ -95,7 +95,13 @@ My current areas of focus include:
 
 A hands-on security assessment of a deliberately vulnerable Linux environment, covering network reconnaissance, service enumeration, vulnerability identification, and security analysis.
 
-**Status:** 🚧 In Progress
+**Status:** ✅ Completed — Full assessment documented
+
+### 🛡️ SIEM Security Monitoring Lab
+
+A hands-on security monitoring lab simulating an enterprise environment, focused on SIEM deployment, endpoint log collection, attack detection, alert correlation, log analysis, and incident investigation.
+
+**Status**: 🚧 Starting Soon
 
 ## Certifications & Training
 
